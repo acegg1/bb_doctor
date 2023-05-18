@@ -4,7 +4,7 @@ game 'gta5'
 name "bb_doctor"
 description "Heals And Gives Armour To Players"
 author "BlackBear"
-version "1.0.0"
+version "1.0.1"
 
 config_scripts {
 	'config/*.lua'
